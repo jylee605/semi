@@ -1,0 +1,3 @@
+# Ignore dacon and paper directories
+dacon/
+paper/
